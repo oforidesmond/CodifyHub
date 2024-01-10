@@ -4,7 +4,15 @@ CodifyHub app for learning how to code is a comprehensive platform designed to f
 
 Through a user-friendly interface, the CodifyHub provides access to structured learning paths, enabling users to start from foundational concepts and progress to advanced topics. The content includes video lectures, coding challenges, quizzes, and hands-on projects, fostering a practical and engaging learning experience.
 
-Key features of the app will include:
+Two Standout features of the app which are unique will be:
+
+1) Live Collaborative Coding Sessions:
+CodifyHub introduces a unique feature allowing users to engage in live collaborative coding sessions. This feature enables real-time collaborative coding, where multiple users can code together, view each other's changes instantaneously, and communicate through integrated chat or voice functionalities. It fosters teamwork, knowledge sharing, and mentorship within the platform, making it an invaluable resource for collaborative learning and coding projects.
+
+2) Virtual Coding Challenges Arena:
+CodifyHub hosts daily virtual coding challenges within its platform. This feature allows users to participate in coding competitions and challenges with diverse themes and difficulty levels. Users can join teams or participate individually, showcasing their coding skills, problem-solving abilities, and creativity. It offers a competitive yet collaborative environment, encouraging skill development, networking, and recognition within the CodifyHub community. Users who show progress or win such challenges will be rewarded based on the built-in reward system where rewards are given to users based on their merit, such as performance, contributions, or valuable actions within the app.
+
+Other Key features of the app will include:
 
 Diverse Course Catalog: A rich library of courses covering various programming languages and topics, allowing users to explore and specialize in their areas of interest.
 
